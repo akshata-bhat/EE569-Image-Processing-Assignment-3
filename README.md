@@ -1,1 +1,1 @@
-# EE569-Image-Processing-Assignment-3
+# Image-Processing-Assignment-3
